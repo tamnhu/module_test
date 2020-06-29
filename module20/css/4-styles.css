@@ -1,0 +1,100 @@
+.type-4 {
+  background-color: #252c30; }
+  .type-4 .top-ft {
+    background-image: url('../images/footer-1-bg.png');
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: center center;
+    padding: 40px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+  .type-4 .img-logo {
+    max-width: 194px; }
+  .type-4 .txt-follow {
+    font-family: initial;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 900;
+    margin-right: 50px;
+    position: relative; }
+    .type-4 .txt-follow::after {
+      content: '';
+      height: 3px;
+      width: 15px;
+      position: absolute;
+      right: -25px;
+      top: 50%;
+      background-color: #fff; }
+  .type-4 .nav-fllow li {
+    margin-left: 12px; }
+  .type-4 .nav-fllow a {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    display: block;
+    background-color: #88B44E;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center; }
+    .type-4 .nav-fllow a:hover {
+      background-color: #fff;
+      color: #252c30; }
+  .type-4 .mid-ft {
+    background-image: url('../images/footer-2-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat; }
+    .type-4 .mid-ft span {
+      font-weight: 600; }
+  .type-4 .ft-menu ul {
+    padding: 0; }
+    .type-4 .ft-menu ul li {
+      list-style: none;
+      font-family: initial;
+      font-weight: 600;
+      padding-bottom: 15px; }
+      .type-4 .ft-menu ul li a {
+        color: #fff;
+        text-decoration: none;
+        transition: all 0.5s; }
+        .type-4 .ft-menu ul li:hover a {
+          color: #88B44E; }
+  .type-4 .ft-recent {
+    width: 100%; }
+  .type-4 .ft-image {
+    width: 30%; }
+  .type-4 .ft-content {
+    width: 70%; }
+    .type-4 .ft-content a {
+      text-decoration: none;
+      font-family: initial;
+      font-size: 17px; }
+    .type-4 .ft-content .a-2 {
+      color: #fff; }
+      .type-4 .ft-content:hover .a-2 {
+        color: #88B44E; }
+  .type-4 .title-ft {
+    font-family: initial;
+    font-weight: 900;
+    padding: 0px 0px 0;
+    margin: 18px 0 36px 0;
+    font-size: 34px;
+    line-height: 1.2em;
+    color: #88B44E;
+    position: relative; }
+  .type-4 .color-1 {
+    color: #88B44E; }
+  .type-4 .ft-bottom {
+    background-color: rgba(0, 0, 0, 0.25);
+    padding: 25px 0; }
+    .type-4 .ft-bottom .to-top {
+      background-color: #fff;
+      line-height: 35px;
+      width: 35px;
+      height: 35px;
+      text-align: center;
+      border-radius: 50%;
+      color: #252c30;
+      transition: all 0.5s; }
+      .type-4 .ft-bottom .to-top:hover {
+        background-color: #88B44E;
+        color: #fff; }
